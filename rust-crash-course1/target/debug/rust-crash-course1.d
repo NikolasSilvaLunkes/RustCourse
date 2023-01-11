@@ -1,0 +1,1 @@
+/home/nikolas/Documents/programming/rust/tutorial1-Variables/rust-crash-course1/target/debug/rust-crash-course1: /home/nikolas/Documents/programming/rust/tutorial1-Variables/rust-crash-course1/src/main.rs
